@@ -1,3 +1,6 @@
+# Paul Fralix, 07/05/2025, Assignment 8.2 
+# This will securely connect to MySQL database and update and delete movies table
+
 """ import statements """
 import mysql.connector
 from mysql.connector import Error, errorcode
